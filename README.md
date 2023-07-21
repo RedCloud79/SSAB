@@ -63,6 +63,8 @@
 |--|--|
 |1주차|프로젝트 방향 설정, 팀원 역할 분배|
 |2주차|Vending_machine 기본동작 설계 및 구성, Mobile 이동체 환경 구성및 설정|
+||Vending_machine|모터 및 초음파 세서를 활용한 동작 설계|
+||Vending_machine||
 |3주차|Mobile 이동체 움직임 개선작업, Vending_machine Cam 연동, GUI 설계|
 |4주차|각 기능별 연결 및 오류 수정|
 
