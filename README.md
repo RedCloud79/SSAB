@@ -65,15 +65,15 @@
 
 <table>
   <tr>
-    <th>주차</th>
+    <th>주차  </th>
     <th colspan = "2">진행 계획</th>
   </tr>
   <tr>
-    <td>1주차</td>
+    <td>1주차  </td>
     <td colspan = "2">프로젝트 방향 설정, 팀원 역할 분배</th>
   </tr>
   <tr>
-    <td>2주차</td>
+    <td>2주차  </td>
     <td colspan = "2">Vending_machine 기본동작 설계 및 구성, Mobile 이동체 환경 구성및 설정</td>
   </tr>
   <tr>
@@ -87,7 +87,7 @@
     <td>ROS 환경 구성 및 이동체 Topic 제어, Pyzbar를 활용한 특정 Qr값을 전달하는 Topic 구성</td>
   </tr>
   <tr>
-    <td>3주차</td>
+    <td>3주차  </td>
     <td colspan = "2">Mobile 이동체 움직임 개선작업, Vending_machine Cam 연동, GUI 설계</td>
   </tr>
   <tr>
@@ -106,7 +106,7 @@
     <td>Vending_machine과 Mobile의 제어를 위한 화면 설계</td>
   </tr>
   <tr>
-    <td>4주차</td>
+    <td>4주차  </td>
     <td colspan = "2">각 기능별 연결 및 오류 수정</td>
   </tr>
   <tr>
