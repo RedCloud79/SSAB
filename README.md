@@ -21,7 +21,7 @@
 
 
 ## **🛠 기술 및 도구**   
-> **언어** : Python<img src="https://img.shields.io/badge/python-#3776AB? style=flat&logo=Java&logoColor=white"/>, C/C++    
+> **언어** : Python<img src="https://img.shields.io/badge/python-#3776AB? style=flat&logo=python&logoColor=white"/>, C/C++    
 > **환경** : Linux, ROS-melodic, Raspberry-pi, Arduino    
 > **라이브러리** : Qt, Tensorflow, OpenCv    
 > **도구** : Github    
