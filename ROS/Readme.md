@@ -27,6 +27,7 @@ while cap.isOpened():
 ```
 
 > * BGR2GRAY와 THRESH_BINARY를 통해서 라인을 검출하는 동작을 수행합니다.
+>   
 > * 좌표에 의해 좌측, 우측의 line을 인식합니다.
 ```python
 if len(left_lines) > 0:
@@ -76,7 +77,9 @@ if center_contour is not None:
 
 ## ROS Qr_cam 구성
 > * Pyzbar라이브러리를 활용하여 바코드 혹은 Qr코드를 스캔하는 기능을 수행합니다.
+>   
 > * 해당 결과값은 초기에 None값을 가지고 있고, topic 통신을 활용하여 값을 전달 수행을 합니다.
+>   
 ```python
 allowed_formats = ['QRCODE', 'CODE128', 'EAN13']
 
@@ -114,7 +117,9 @@ while True:
 
 ## ROS teleop_keyboard 구성
 > * 이동체의 움직임을 주기위해 구성 되어있는 코드입니다.
+>   
 > * Geometry_msgs를 활용하여 /cmd_vel토픽으로 값을 전송하여 속도를 제어합니다.
+>   
 > * Cam에서 보내주는 topic들을 subscriber로 받아와 동작을 수행합니다.
 ```python
     rospy.init_node('teleop_twist_keyboard')
