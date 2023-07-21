@@ -21,10 +21,10 @@
 
 
 ## **🛠 기술 및 도구**   
-> **언어** : Python<img src="https://img.shields.io/badge/python-#3776AB? style=flat&logo=python&logoColor=white"/>, C/C++    
-> **환경** : Linux, ROS-melodic, Raspberry-pi, Arduino    
-> **라이브러리** : Qt, Tensorflow, OpenCv    
-> **도구** : Github    
+> **언어** : <img alt="python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/>, <img alt="cplusplus" src ="https://img.shields.io/badge/cplusplus-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=white"/>  
+> **환경** : <img alt="linux" src ="https://img.shields.io/badge/linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=white"/>,<img alt="ros" src ="https://img.shields.io/badge/ros-22314E.svg?&style=flat-square&logo=ros&logoColor=white"/>, <img alt="raspberrypi" src ="https://img.shields.io/badge/raspberrypi-A22846.svg?&style=flat-square&logo=raspberrypi&logoColor=white"/>, <img alt="arduino" src ="https://img.shields.io/badge/arduino-00979D.svg?&style=flat-square&logo=arduino&logoColor=white"/>  
+> **라이브러리** : <img alt="qt" src ="https://img.shields.io/badge/qt-41CD52.svg?&style=flat-square&logo=qt&logoColor=white"/>, <img alt="tensorflow" src ="https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white"/>, <img alt="OpenCV" src ="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white"/>   
+> **도구** : <img alt="github" src ="https://img.shields.io/badge/github-181717.svg?&style=flat-square&logo=github&logoColor=white"/>   
 
 
 ## **✨ 기능 구현**
