@@ -77,33 +77,6 @@
 ||Mobile 이동체|Topic들의 값에 대한 움직이의 수정|
 ||GUI|소켓 통신을 통한 이동체와 Vending Machine의 결과 확인|
 
-<table>
-  <tr>
-    <th>주차</th>
-    <th rowspan="3">진행 계획</th>
-    <th></th>
-  </tr>
-  <tr>
-    <td>1주차</td>
-    <td>내용</td>
-    <td>내용</td>
-  </tr>
-  <tr>
-    <td>2주차</td>
-    <td>내용</td>
-    <td>내용</td>
-  </tr>
-  <tr>
-    <td>3주차</td>
-    <td>내용</td>
-    <td>내용</td>
-  </tr>
-  <tr>
-    <td>4주차</td>
-    <td>내용</td>
-    <td>내용</td>
-  </tr>
-</table>
 
 
 
