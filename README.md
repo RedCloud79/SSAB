@@ -40,7 +40,7 @@
 -----------------------------------------------------------------------------------
 
 ### **Vending_machine**
-<img width="100%" alt="GUI 화면" src="https://github.com/RedCloud79/SSAB/blob/main/ROS/Screenshot%20from%202023-07-20%2017-02-30.png" />
+<img width="100%" alt="Vending_machine Cam 화면" src="https://github.com/RedCloud79/SSAB/blob/main/Vending_machine/2023-07-20-154126_1280x720_scrot_002.png" />
 
 * Mobile의 특정 번호를 Cam을 통하여 인식   
 * 고유 번호의 인식에 따라 Arduino로 UART통신으로 전달   
@@ -50,7 +50,7 @@
 -----------------------------------------------------------------------------------
   
 ### **ROS**
-<img width="100%" alt="GUI 화면" src="https://github.com/RedCloud79/SSAB/blob/main/Vending_machine/2023-07-20-154126_1280x720_scrot_002.png" />    
+<img width="100%" alt="Rqt_graph 화면" src="https://github.com/RedCloud79/SSAB/blob/main/ROS/Screenshot%20from%202023-07-20%2017-02-30.png" />
 
 * Cam을 활용한 이동체의 제어   
 * Qr의 값을 입력받으면 특정 물품 위치 인식   
