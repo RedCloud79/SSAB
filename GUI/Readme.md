@@ -17,6 +17,8 @@
 
 #### 코드 구성
 > * PySide2를 활용한 GUI구성
+
+
 <details>
   <summarty> GUI 구성 코드 </summarty>
 
@@ -77,6 +79,8 @@ def __init__(self, parent=None):
   ```
   
 </details>
+
+
 
 > * socket 통신을 활용한 Vending_machine와 ROS의 연결   
 ```python
