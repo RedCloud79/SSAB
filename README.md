@@ -33,7 +33,7 @@
 
 - 물품 선택 및 수량을 입력    
 - 입력받은 값을 Vending machine과 Ros로 socket 통신을 통한 연결    
-- [GUI 상세설명](SSAB/GUI/Readme.md)    
+- [GUI 상세설명](/GUI/Readme.md)    
 
 ### **Vending_machine**
 <img width="100%" alt="GUI 화면" src="https://github.com/RedCloud79/SSAB/blob/main/ROS/Screenshot%20from%202023-07-20%2017-02-30.png" />
