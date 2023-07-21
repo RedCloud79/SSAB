@@ -78,7 +78,60 @@
 ||GUI|소켓 통신을 통한 이동체와 Vending Machine의 결과 확인|
 
 
-
+<table>
+  <tr>
+    <th>주차</th>
+    <th colspan = "2">진행 계획</th>
+  </tr>
+  <tr>
+    <td>1주차</td>
+    <td colspan = "2">프로젝트 방향 설정, 팀원 역할 분배</th>
+  </tr>
+  <tr>
+    <td>2주차</td>
+    <td colspan = "2">Vending_machine 기본동작 설계 및 구성, Mobile 이동체 환경 구성및 설정</td>
+  </tr>
+  <tr>
+    <td colspan = "2">Vending_machine</td>
+    <td>모터 및 초음파 세서를 활용한 동작 설계</td>
+  </tr>
+  <tr>
+    <td colspan = "2">Moblie 이동체</td>
+    <td>ROS 환경 구성 및 이동체 Topic 제어, Pyzbar를 활용한 특정 Qr값을 전달하는 Topic 구성</td>
+  </tr>
+  <tr>
+    <td>3주차</td>
+    <td colspan = "2">Mobile 이동체 움직임 개선작업, Vending_machine Cam 연동, GUI 설계</td>
+  </tr>
+  <tr>
+    <td colspan = "2">Vending_machine</td>
+    <td>Cam을 활용한 특정 객체 분류</td>
+  </tr>
+  <tr>
+    <td colspan = "2">Moblie 이동체</td>
+    <td>Cam의 Value값을 활용한 움직임 제어</td>
+  </tr>
+  <tr>
+    <td colspan = "2">GUI</td>
+    <td>Vending_machine과 Mobile의 제어를 위한 화면 설계</td>
+  </tr>
+  <tr>
+    <td>4주차</td>
+    <td colspan = "2">각 기능별 연결 및 오류 수정</td>
+  </tr>
+  <tr>
+    <td colspan = "2">Vending_machine</td>
+    <td>UART 통신을 통한 Cam과 각 센서의 동작의 연결 및 센서동작 수정</td>
+  </tr>
+  <tr>
+    <td colspan = "2">Moblie 이동체</td>
+    <td>Topic들의 값에 대한 움직이의 수정</td>
+  </tr>
+  <tr>
+    <td colspan = "2">GUI</td>
+    <td>소켓 통신을 통한 이동체와 Vending Machine의 결과 확인</td>
+  </tr>
+</table>
 
 
 
