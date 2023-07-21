@@ -34,7 +34,7 @@
 * 물품 선택 및 수량을 입력    
 * 입력받은 값을 Vending machine과 Ros로 socket 통신을 통한 연결
 -----------------------------------------------------------------------------------
-####[GUI 코드 및 설명](/GUI/Readme.md)    
+#### [GUI 코드 및 설명](/GUI/Readme.md)    
 
 ### **Vending_machine**
 <img width="100%" alt="GUI 화면" src="https://github.com/RedCloud79/SSAB/blob/main/ROS/Screenshot%20from%202023-07-20%2017-02-30.png" />
@@ -43,7 +43,7 @@
 * 고유 번호의 인식에 따라 Arduino로 UART통신으로 전달   
 * 받은 전달값에 따른 해당 동작 수행
 -----------------------------------------------------------------------------------
-####[Vending_machine 코드 및 설명](/Vending_machine/Readme.md)    
+#### [Vending_machine 코드 및 설명](/Vending_machine/Readme.md)    
   
 ### **ROS**
 <img width="100%" alt="GUI 화면" src="https://github.com/RedCloud79/SSAB/blob/main/Vending_machine/2023-07-20-154126_1280x720_scrot_002.png" />    
@@ -51,7 +51,7 @@
 * Cam을 활용한 이동체의 제어   
 * Qr의 값을 입력받으면 특정 물품 위치 인식   
 -----------------------------------------------------------------------------------
-####[ROS 코드 및 설명](/ROS/Readme.md)  
+#### [ROS 코드 및 설명](/ROS/Readme.md)  
 
 ## **⏰ 일정**
 
