@@ -40,7 +40,7 @@ while True:
                 info_msg = "Stop"
             elif qr_code_data == 'http://m.site.naver.com/1aNl2':
                 info_msg = "Stop"
-            elif qr_code_data == 'https://www.daum.net/':
+            elif qr_code_data == 'https://m.sit.naver.com/1aN**':
                 info_msg = "Daum"
             else:
                 info_msg = "Unknown"
