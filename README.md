@@ -1,2 +1,6 @@
-# SSAB
+SSAB
+==========================
 Smart Shopping Assistance bot
+--------------------------
+
+
