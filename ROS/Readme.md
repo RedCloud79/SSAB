@@ -72,7 +72,7 @@ if center_contour is not None:
             else:
                 info_msg = "Unknown"
 ```
-> * 해당 출력값을 **info_pub = rospy.Publisher('/line_code_info', String, queue_size=10)**를 통해서 topic 통신으로 전달합니다.
+> * 해당 출력값을 info_pub = rospy.Publisher('/line_code_info', String, queue_size=10)를 통해서 topic 통신으로 전달합니다.
 
 
 ## ROS Qr_cam 구성
