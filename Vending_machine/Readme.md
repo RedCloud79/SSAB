@@ -73,7 +73,7 @@ model = keras.models.load_model('my_model.h5')
 model.summary()
 ```
 
-> * 모델을 통해서 숫자를 인식하지만 무분별한 검출과 명확한 결과를 위해서 roi와 적응형 가우시안 스레시홀드를 적용시켰다.
+> * 모델을 통해서 숫자를 인식하지만 무분별한 검출방지와 명확한 결과를 위해서 roi와 적응형 가우시안 스레시홀드를 적용시켰다.
 > * 요츠 이진화 알고리즘은 그림자, 밝기에 따른 결과값의 차이가 있어서 적응형 가우시안을 활용하였다.
 ```python
 global predicted_class, scale, trigger
