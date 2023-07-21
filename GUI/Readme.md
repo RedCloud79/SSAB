@@ -91,7 +91,7 @@ subscriber_ip = "192.168.0.(고유 ip입력)"
 subscriber_port = 12345
 ```
 
-> * 전송 버튼의 에대한 동작
+> * 전송 버튼에 대한 동작
 ```python
 self.runButton1 = QPushButton("정보 자판기로 전송", self)
         self.runButton1.setFixedSize(180,50)
