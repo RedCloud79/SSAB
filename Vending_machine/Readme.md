@@ -2,7 +2,7 @@
 
 ### 참고자료 pip
 ------------------------------------------------
-[raspberrypi 4B pip list](/Raspberry_pip_list.md)
+[raspberrypi 4B pip list](/Vending_machine/Raspberry_pip_list.md)
 ------------------------------------------------
 
 
