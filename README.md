@@ -59,14 +59,20 @@
 -----------------------------------------------------------------------------------
 
 ## **⏰ 일정**
-|주차|진행 계획|
-|--|--|
-|1주차|프로젝트 방향 설정, 팀원 역할 분배|
-|2주차|Vending_machine 기본동작 설계 및 구성, Mobile 이동체 환경 구성및 설정|
-||Vending_machine|모터 및 초음파 세서를 활용한 동작 설계|
-||Vending_machine||
-|3주차|Mobile 이동체 움직임 개선작업, Vending_machine Cam 연동, GUI 설계|
-|4주차|각 기능별 연결 및 오류 수정|
+|주차 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|진행 계획&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||
+|---|---|---|
+|1주차|프로젝트 방향 설정, 팀원 역할 분배||
+|2주차|Vending_machine 기본동작 설계 및 구성, Mobile 이동체 환경 구성및 설정||
+||Vending_machine|모터 및 초음파 세서를 활용한 동작 설계||
+||Mobile 이동체|ROS 환경 구성 및 이동체 Topic 제어, Pyzbar를 활용한 특정 Qr값을 전달하는 Topic 구성|
+|3주차|Mobile 이동체 움직임 개선작업, Vending_machine Cam 연동, GUI 설계||
+||Vending_machine|Cam을 활용한 특정 객체 분류|
+||Mobile 이동체|Cam의 Value값을 활용한 움직임 제어|
+||GUI|Vending_machine과 Mobile의 제어를 위한 화면 설계|
+|4주차|각 기능별 연결 및 오류 수정||
+||Vending_machine|UART 통신을 통한 Cam과 각 센서의 동작의 연결 및 센서동작 수정|
+||Mobile 이동체|Topic들의 값에 대한 움직이의 수정|
+||GUI|소켓 통신을 통한 이동체와 Vending Machine의 결과 확인|
 
 
 
