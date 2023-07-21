@@ -79,12 +79,12 @@
   <tr>
     <td></td>
     <td>Vending_machine</td>
-    <td>모터 및 초음파 세서를 활용한 동작 설계</td>
+    <td>모터 및 초음파 센서를 활용한 동작 설계</td>
   </tr>
   <tr>
     <td></td>
     <td>Moblie 이동체</td>
-    <td>ROS 환경 구성 및 이동체 Topic 제어, Pyzbar를 활용한 특정 Qr값을 전달하는 Topic 구성</td>
+    <td>ROS 환경 구성 및 이동체 Topic 제어, Pyzbar를 활용한 특정 Qr값을 전달하는 Topic 구성 및 Teleop 제어</td>
   </tr>
   <tr>
     <td>   3주차   </td>
@@ -93,12 +93,12 @@
   <tr>
     <td></td>
     <td>Vending_machine</td>
-    <td>Cam을 활용한 특정 객체 분류</td>
+    <td>Cam을 활용한 특정 객체 판별</td>
   </tr>
   <tr>
     <td></td>
     <td>Moblie 이동체</td>
-    <td>Cam의 Value값을 활용한 움직임 제어</td>
+    <td>Cam의 Value값을 활용한 Mobile 이동체 움직임 제어</td>
   </tr>
   <tr>
     <td></td>
