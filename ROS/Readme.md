@@ -8,6 +8,8 @@
 ## ROS_rqt_graph
 <img width="100%" alt="GUI 화면" src="https://github.com/RedCloud79/SSAB/blob/main/ROS/ROS_rqt_graph.png" />
 
+<img width="100%" alt="GUI 화면" src="https://github.com/RedCloud79/SSAB/blob/main/ROS/ROS.PNG" />
+
 ## ROS line_cam 구성
 <img width="100%" alt="GUI 화면" src="https://github.com/RedCloud79/SSAB/blob/main/ROS/%EC%A0%84%EB%A9%B4%EB%B6%80%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%ED%99%94%EB%A9%B4.png" />
 
