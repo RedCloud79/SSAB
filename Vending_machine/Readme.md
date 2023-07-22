@@ -6,6 +6,9 @@
 ------------------------------------------------
 
 # 자판기 구성
+
+<img width="100%" alt="GUI 화면" src="https://github.com/RedCloud79/SSAB/blob/main/Vending_machine/Vending_machine.PNG" />
+
 ## Arduino
 > * 서보 모터와 초음파 센서를 활용하여 물건을 배출하는 기능을 가지고 있다.
 > * 2, 3, 9번 핀을 활용 하였으며 라즈베리파이와의 통신을 위해 boardrate는 115200으로 설정을 해준다.
