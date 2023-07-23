@@ -3,7 +3,6 @@
 ## 구성 및 동작 설명
 <img width="100%" alt="GUI 화면" src="https://github.com/RedCloud79/SSAB/blob/main/GUI/GUI.PNG" />
 
-
 <img width="100%" alt="GUI 화면" src="https://github.com/RedCloud79/SSAB/blob/main/GUI/GUI%ED%99%94%EB%A9%B4.png" />
 
 #### 구성
