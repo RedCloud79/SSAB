@@ -33,6 +33,9 @@
 
 
 ## **✨ 기능 구현**
+### **플로우 차트**
+<img width="100%" alt="GUI 화면" src="https://github.com/RedCloud79/SSAB/blob/main/Total_package.PNG" />
+
 ### **GUI**
 <img width="100%" alt="GUI 화면" src="https://github.com/RedCloud79/SSAB/blob/main/GUI/Screenshot%20from%202023-07-20%2014-49-16.png" />
 
