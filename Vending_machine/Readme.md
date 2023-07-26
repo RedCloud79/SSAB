@@ -7,7 +7,7 @@
 
 # 자판기 구성
 
-<img width="100%" alt="GUI 화면" src="https://github.com/RedCloud79/SSAB/blob/main/Vending_machine/Vending_machine.PNG" />
+<img width="100%" alt="GUI 화면" src="https://github.com/RedCloud79/SSAB/blob/main/Vending_machine/Arduino%2BVending.PNG" />
 
 ## Arduino
 > * 서보 모터와 초음파 센서를 활용하여 물건을 배출하는 기능을 가지고 있다.
