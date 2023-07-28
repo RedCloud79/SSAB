@@ -21,7 +21,10 @@
 > **주요 기능**   
 > > * 받아야 하는 물품의 위치로 Mobile이동체 이동   
 > > * Cam을 활용하여 Mobile 이동체의 인식및 물품 수량 배출   
-> > * 받은 물품을 대기 위치로 이동   
+> > * 받은 물품을 대기 위치로 이동
+>
+> **포트폴리오 및 영상**
+> > * 링크 : https://drive.google.com/drive/folders/1kk4Dhas4U6645CQETH7d_uo6G0JYybc9?usp=sharing
 
 
 
